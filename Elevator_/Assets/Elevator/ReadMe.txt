@@ -1,6 +1,4 @@
-# Elevator
- 
-Elevator
+﻿Elevator
 
 Features:
 
@@ -35,7 +33,6 @@ There are two speed variables: normal speed and max speed.
 If next floor is upstair than 2 floors, elevator will by accelerated (also moving sound will by speed up).
 If next floor is close than 2 floors elevator speed will by returned at normal.
 Elevator stoped slowly (with endMoving sound).
-(Todo: Start moving slowly (with sound))
 
 Texts and arrows:
 
